@@ -2,7 +2,7 @@
 ShoplikePro- eCommerce website with user authentication. Created with MERN stack - MongoBd / Express / React / Node.
 
 Description
-eCommerce platform built with the MERN stack & Redux. This app includes authentication, profiles, products catalog, shopping cart etc. Users can make purchases, review products, rate them. Authenticated admin users can modify products catalog, mark paid orders to delivery, give admin rights regular users. Payment system is developed with PayPal API.
+This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode) Stack. It has user authentication system, an admin user who can add new products in the app, check for order and payments and also choose which order has been delivered from the store. It is also connected to PayPal for payments. It is deployed in Heroku and below you can find the link to visit the app.
 
 Live demo
 
